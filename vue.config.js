@@ -1,5 +1,8 @@
 module.exports = {
     runtimeCompiler: true,
+    publicPath: process.env.NODE_ENV === 'production' ?
+        '/sample-project/' :
+        '/',
     chainWebpack: config => {
         config
         .plugin('html')
