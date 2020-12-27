@@ -1,0 +1,27 @@
+{
+    "header": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "contact_us": "Bize Ulaşın",
+        "language": "Dil",
+        "turkish": "Türkçe",
+        "english": "English",
+        "login": "Giriş Yap",
+        "logout": "Çıkış Yap"
+    },
+    "countact_us": {
+        "name": "İsim",
+        "email": "E-Posta",
+        "phone_number": "Telefon Numarası",
+        "country": "Ülke Seçin",
+        "message": "Mesaj",
+        "send": "Gönder"
+    },
+    "login_modal": {
+        "title": "Giriş Yap",
+        "name": "İsim",
+        "email": "E-Posta",
+        "password": "Şifre",
+        "login": "Giriş Yap"
+    }
+}

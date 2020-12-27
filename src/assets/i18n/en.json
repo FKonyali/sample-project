@@ -1,0 +1,27 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "contact_us": "Contact Us",
+        "language": "Language",
+        "turkish": "Türkçe",
+        "english": "English",
+        "login": "Login",
+        "logout": "Logout"
+    },
+    "countact_us": {
+        "name": "Name",
+        "email": "Email",
+        "phone_number": "Phone Number",
+        "country": "Pick Country",
+        "message": "Message",
+        "send": "Send"
+    },
+    "login_modal": {
+        "title": "Login",
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "login": "Login"
+    }
+}

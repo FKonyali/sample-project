@@ -1,0 +1,29 @@
+//form
+.form
+    $form: &
+
+    &__group
+        margin-bottom: 18px
+
+        &.has-error
+            #{$form}
+                &__control
+                    border-color: #ce0000
+
+            .section__item
+                border-color: #ce0000
+
+    &__control
+        border: 1px solid #C9C9C9
+        padding: 10.5px 40px 10.5px 16px
+        width: 100%
+        font-family: "Arial", "sans-serif"
+        font-size: 14px
+        resize: none
+
+    h1, h2, h3, h4, h5, h6
+        margin-bottom: 20px
+
+    p
+        margin-bottom: 15px
+        line-height: 1.5
